@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## 🔗 Live Demo
 
-[Soon --- once deployed]
+[https://movie-recommender-system-lakshya-gupta.streamlit.app/]
 
 ## 📌 Future Improvements
 
